@@ -7,10 +7,10 @@ This project was created to test my first node js application. It is a series of
 undefined
     
 ## Installation
-This application requires node and the following packages; Inquirer, Chalk
+This application requires node and the following packages; Inquirer, Chalk.
     
 ## Usage
-To use this application, type "node.index.js" in the terminal.
+To use this application, type "node .\index.js" in the terminal.
     
 ## Features
 Color in the terminal is aquired from Chalk.
@@ -19,7 +19,7 @@ Color in the terminal is aquired from Chalk.
 
     
 ## Tests
-Running "node index.js" after a file has been created will overwrite the current file.
+Running "node .\index.js" after a file has been created will overwrite the current file.
     
 ## Questions
 Dayne Lalmond
