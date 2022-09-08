@@ -1,4 +1,4 @@
-## Test Project                    ![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)
+## Test Project ![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)
     
 ## Description
 This project was created to test my first node js application. It is a series of questions that results in a newly created README file with the input of the user.
