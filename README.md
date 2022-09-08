@@ -4,13 +4,13 @@
 This project was created to test my first node js application. It is a series of questions that results in a newly created README file with the input of the user.
     
 ## Table of Contents
-
+undefined
     
 ## Installation
-This application requires node and the following packages; Inquirer, Chalk.
+This application requires node and the following packages; Inquirer, Chalk
     
 ## Usage
-To use this application, type "node index.js" in the terminal.
+To use this application, type "node.index.js" in the terminal.
     
 ## Features
 Color in the terminal is aquired from Chalk.
@@ -24,5 +24,4 @@ Running "node index.js" after a file has been created will overwrite the current
 ## Questions
 Dayne Lalmond
 https://github.com/DayneLalmond
-
 
